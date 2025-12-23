@@ -1,4 +1,5 @@
 docker build -t helloapp .
+
 docker run helloapp
 
 ----------------------------------
